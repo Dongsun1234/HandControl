@@ -8,7 +8,7 @@
 HandControl/
 ├─ servo_move
 │  └─ servo_move.ino
-├─ images
+├─ images/
 ├─ HandControl.py
 ├─ readme.md
 └─ requirements.txt
